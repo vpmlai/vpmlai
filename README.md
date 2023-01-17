@@ -9,7 +9,7 @@
 
 <br />
 
-Hi, I'm Vivek Pathak. I have pretty good grasp and handson in architecting and designing Machine Learning solutions for regression, classification, NLP and Computer Vision.
+Hi, I'm Vivek Pathak. I have pretty good grasp and real world experience in architecting and designing Machine Learning solutions for regression, classification, NLP and Computer Vision.
 
 
 **Languages and Tools:**  
@@ -36,7 +36,7 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vpmlai&show_icons=true&theme=gotham%22%20alt=%22vpmlai" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=vpmlai&show_icons=true&theme=gotham%22%20alt=%22vpmlai" />
 
 
 
