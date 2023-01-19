@@ -14,3 +14,4 @@ jobs:
       - uses: athul/waka-readme@master #PLEASE USE MASTER BRANCH
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          PAT_API_KEY: ${{ secrets.GH_PAT }}
