@@ -1,6 +1,6 @@
 ### hey there 
 <a href="https://www.linkedin.com/in/vivekpathak03/">
-  <img align="left" alt="Vivek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Vivek's LinkedIN" width="22px" />
 </a>
 
 
