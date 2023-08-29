@@ -1,7 +1,9 @@
 ### Greetings
 <a href="https://www.linkedin.com/in/vivekpathak03/">
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=vpmlai.vpmlai)
+
 <br />
 👋 Greetings and welcome to my GitHub profile! 📊🔮
 
