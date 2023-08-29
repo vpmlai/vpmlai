@@ -1,10 +1,3 @@
-### Greetings
-<a href="https://www.linkedin.com/in/vivekpathak03/">
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=vpmlai.vpmlai)
-
-<br />
 👋 Greetings and welcome to my GitHub profile! 📊🔮
 
 I'm Vivek Pathak, and I'm passionate about the convergence of data science and Oracle technologies. With a knack for unraveling insights from complex datasets and a deep understanding of Oracle's powerful ecosystem, I thrive on solving intricate problems at the intersection of data and technology.
